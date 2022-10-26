@@ -1,4 +1,6 @@
-# MERN
+# MERN CRAWL
+
+# In the following project, the boilerplate created by @wassim-azirar is used.
 
 ## MongoDB | Express | React | Node.js
 
