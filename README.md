@@ -1,6 +1,6 @@
 # MERN CRAWL
 
-# In the following project, the boilerplate created by @wassim-azirar is used.
+# In the following project, the boilerplate created by [@wassim-azirar](https://github.com/wassim-azirar) is used.
 
 ## MongoDB | Express | React | Node.js
 
